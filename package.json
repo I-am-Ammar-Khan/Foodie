@@ -1,0 +1,57 @@
+{
+  "name": "Foodie",
+  "displayName": "Foodie",
+  30 min me sab done
+  10~5
+  "publisher": "Ammar-Khan",
+  "description": "This theme is packed with themes which are inspire by foods you like.",
+  "icon": "ico.png",
+  "version": "0.0.1",
+  "author": {
+    "name": "Ammar Khan",
+    "email": "ammarkhan101101@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "repository": {
+    "type": "git",
+    "directory": "Foodie",
+    "url": "https://github.com/I-am-Ammar-Khan/Foodie"
+  },
+  "keywords": [
+    "Food",
+    "Coffee",
+    "Cake",
+    "Omlet",
+    "Foodie",
+    "Colour",
+    "Theme Pack",
+    "hungry",
+    "Ammar Khan",
+    "themes",
+    "ammar"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Foodie - Cake",
+        "uiTheme": "vs",
+        "path": "./themes/Foodie-color-theme.json"
+      },
+      {
+        "label": "Foodie - Omlet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Foodie-black.json"
+      },
+      {
+        "label": "Foodie - Coffee",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Foodie-blue.json"
+      }
+    ]
+  }
+}
