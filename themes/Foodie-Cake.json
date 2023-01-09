@@ -1,41 +1,51 @@
 {
 	"name": "Foodie",
 	"colors": {
+		"button.background": "#FC7FB2",
+		"activityBarBadge.foreground": "#FC7FB2",
+		"activityBar.background": "#FC7FB2",
+		"tab.activeBorder": "#FC7FB2",
+		"breadcrumbPicker.background": "#FC7FB2",
+		"breadcrumb.focusForeground": "#FC7FB2",
+		"sideBarSectionHeader.background": "#FC7FB2",
+		"statusBarItem.remoteForeground": "#FC7FB2",
+		"statusBar.noFolderBackground": "#FC7FB2",
+		"statusBar.background": "#FC7FB2",
+		"titleBar.inactiveBackground": "#FC7FB2",
+		"titleBar.activeBackground": "#FC7FB2",
+		
+		"menu.background": "#FC7FB2f8",
+        "statusBar.border": "#FC7FB260",
+        "titleBar.border": "#FC7FB260",
+        "sideBarSectionHeader.border": "#FC7FB260",
+        "activityBar.border": "#FC7FB260",
+        "menu.selectionBorder": "#FC7FB230",
+
+		
 		"editor.background": "#FFF1E9",
 		"editor.foreground": "#45454D",
 
-		"titleBar.activeBackground": "#FC7FB2",
         "titleBar.activeForeground": "#45454D",
-        "titleBar.border": "#FC7FB260",
-        "titleBar.inactiveBackground": "#FC7FB2",
         "titleBar.inactiveForeground": "#000000",
 
-		"menu.background": "#FC7FB2f8",
         "menu.border": "#00000050",
         "menu.foreground": "#FFD5D5",
         "menu.selectionBackground": "#FCA1B8",
-        "menu.selectionBorder": "#FC7FB230",
         "menu.selectionForeground": "#FFD5D5",
         "menu.separatorBackground": "#FFD5D5",
         "menubar.selectionBackground": "#FCA1B8",
         "menubar.selectionBorder": "#00000050",
         "menubar.selectionForeground": "#FFD5D5",
 		
-        "statusBar.background": "#FC7FB2",
-        "statusBar.border": "#FC7FB260",
         "statusBar.debuggingBackground": "#000000",
         "statusBar.debuggingForeground": "#FFF1E9",
         "statusBar.foreground": "#45454D",
-        "statusBar.noFolderBackground": "#FC7FB2",
         "statusBarItem.hoverBackground": "#00000020",
         "statusBarItem.remoteBackground": "#000000",
-        "statusBarItem.remoteForeground": "#FC7FB2",
 
 		"sideBar.background": "#FFD5D5",
         "sideBar.border": "#FFD5D5",
         "sideBar.foreground": "#45454D",
-        "sideBarSectionHeader.background": "#FC7FB2",
-        "sideBarSectionHeader.border": "#FC7FB260",
         "sideBarSectionHeader.foreground": "#FFD5D5",
         "sideBarTitle.foreground": "#FFD5D5",
 
@@ -43,15 +53,12 @@
 		
         "breadcrumb.activeSelectionForeground": "#454545",
         "breadcrumb.background": "#FFD5D5",
-        "breadcrumb.focusForeground": "#FC7FB2",
         "breadcrumb.foreground": "#000000",
-        "breadcrumbPicker.background": "#FC7FB2",
 		
 		
 		
         "editorGroupHeader.tabsBackground": "#FFD5D5",
 		"tab.activeBackground": "#FFD5D5",
-		"tab.activeBorder": "#FC7FB2",
 		"tab.activeForeground": "#FFF1E9",
 		"tab.border": "#FFD5D5",
 		"tab.activeModifiedBorder": "#000000",
@@ -63,13 +70,9 @@
 		"tab.unfocusedActiveForeground": "#45454D",
 		"tab.unfocusedInactiveForeground": "#45454D",
 		
-		"activityBar.background": "#FC7FB2",
-        "activityBar.border": "#FC7FB260",
         "activityBar.foreground": "#FFF",
         "activityBarBadge.background": "#FFF1E9",
-        "activityBarBadge.foreground": "#FC7FB2",
 		
-        "button.background": "#FC7FB2",
 
 		
 		"dropdown.background": "#000000",
