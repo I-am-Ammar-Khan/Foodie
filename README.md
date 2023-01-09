@@ -1,21 +1,18 @@
-# __Foodie__
+# __🥪Foodie__
 ## This theme is packed with themes which are inspire by foods you like.
 
 --- 
-<!-- ## Colourfull - BLACK
-![black](images/black.png)
+## Foodie - Cake
+![black](img/cake.png)
 
 ---
-## Colourfull - BLUE
-![blue](images/blue.png)
+## Foodie - Coffee
+![blue](img/coffee.png)
 
 ---
-## Colourfull - RED
-![Red](images/red.png)
+## Foodie - Omlet
+![Red](img/omlt.png)
 
----
-## Colourfull - Yellow
-![Red](images/Yellow.png) -->
 
 
 ---
