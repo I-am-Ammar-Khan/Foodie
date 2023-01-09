@@ -38,7 +38,7 @@
       {
         "label": "Foodie - Omlet",
         "uiTheme": "vs",
-        "path": "/themes/Foodie-Coffee.json"
+        "path": "/themes/Foodie-Omlet.json"
       },
       {
         "label": "Foodie - Cake",
@@ -48,7 +48,7 @@
       {
         "label": "Foodie - Coffee",
         "uiTheme": "vs-dark",
-        "path": "/themes/Foodie-Omlet.json"
+        "path": "/themes/Foodie-Coffee.json"
       }
     ]
   }
