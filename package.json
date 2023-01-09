@@ -36,19 +36,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Foodie - Cake",
-        "uiTheme": "vs",
-        "path": "./themes/Foodie-color-theme.json"
-      },
-      {
         "label": "Foodie - Omlet",
         "uiTheme": "vs-dark",
-        "path": "./themes/Foodie-black.json"
+        "path": "./themes/Foodie-Coffee.json"
+      },
+      {
+        "label": "Foodie - Cake",
+        "uiTheme": "vs",
+        "path": "./themes/Foodie-Cake.json"
       },
       {
         "label": "Foodie - Coffee",
         "uiTheme": "vs-dark",
-        "path": "./themes/Foodie-blue.json"
+        "path": "./themes/Foodie-Omlet.json"
       }
     ]
   }
