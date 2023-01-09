@@ -3,15 +3,15 @@
 
 --- 
 ## Foodie - Cake
-![black](img/cake.png)
+![cake](img/cake.png)
 
 ---
 ## Foodie - Coffee
-![blue](img/coffee.png)
+![coffee](img/coffee.png)
 
 ---
 ## Foodie - Omlet
-![Red](img/omlt.png)
+![omlet](img/omlet.png)
 
 
 
